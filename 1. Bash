@@ -1,1 +1,49 @@
+## Roadmap: Interacting with Servers and Bash Scripting
 
+### Week 1
+
+**Day 1**: Set up Microsoft Azure Account
+- Create or sign in to your Microsoft Azure account.
+
+**Day 2**: Learn Azure Basics
+- Familiarize yourself with the Azure portal and basic navigation.
+
+**Day 3**: Deploy Ubuntu VM on Azure
+- Use Azure portal to create the cheapest Ubuntu VM possible.
+- Configure the VM to your desired specifications.
+
+**Day 4**: SSH into the Ubuntu VM
+- Learn how to connect to the Ubuntu VM using SSH.
+
+**Day 5**: Basic Server Administration
+- Practice basic server administration tasks on the Ubuntu VM.
+- Update packages, manage files, and perform system checks.
+
+### Week 2
+
+**Day 6**: Introduction to Bash Scripting
+- Enroll in a free 2-hour course covering the basics of Bash scripting. (Link: [YouTube Bash Basics Course](https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l))
+
+**Day 7**: Bash Scripting Practice
+- Create simple Bash scripts to perform basic tasks on the Ubuntu VM.
+
+**Day 8**: Advanced Bash Concepts
+- Learn about functions, command-line arguments, and error handling in Bash.
+
+**Day 9**: Script 1: Deploying Ubuntu VM with LAMP Server
+- Write a Bash script that automates the creation of an Ubuntu VM on Azure.
+- Configure the VM to run a LAMP (Linux, Apache, MySQL, PHP) server.
+
+**Day 10**: Script 2: Folder Spell Checker
+- Develop a Bash script that prompts the user for a folder path.
+- Implement a spell-checking feature to check each file in the folder for spelling errors.
+
+**Day 11**: Script Refinement and Troubleshooting
+- Review and improve your Bash scripts.
+- Test the scripts on the Azure VM and fix any issues.
+
+**Day 12**: Final Review and Wrap-up
+- Review all the concepts and scripts you've learned and developed.
+- Reflect on your progress and identify areas for further improvement.
+
+By the end of this two-week roadmap, you will have gained valuable experience in interacting with servers through Bash scripting and have created practical scripts to automate tasks on your Azure Ubuntu VM. This foundation will enable you to efficiently manage servers and automate repetitive operations in various environments. Remember to continue practicing and exploring additional Bash features to hone your skills further. Happy scripting and learning!
